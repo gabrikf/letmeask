@@ -13,4 +13,4 @@ INSTRUCTIONS:
 
 Architecture:
 ==============
-![project's architecture](/documents/print.png?raw=true "Project's architecture")
+<img src='./documents/print.png' alt='print-project'>
