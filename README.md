@@ -9,7 +9,7 @@ INSTRUCTIONS:
 =============
 
 - Access project root and execute command: npm install
-- npm run dev
+- npm start
 
 Architecture:
 ==============
